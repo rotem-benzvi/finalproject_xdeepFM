@@ -41,6 +41,16 @@ feature_names_avazu
 
 Save those files in google drive.
 
+## Data exploration
+
+In **dataPlots folder** we save features correlation matrix and distribution of clicks for both datasets -
+
+<div align="center">
+
+![](static/img/data.jpg)
+
+</div>
+
 ## Training and Evalutaion
 
 In our [final project notebook](https://github.com/rotem-benzvi/finalproject_xdeepFM/blob/8f7e5d1331346e1764b0aead6dcc5d29ac7eae14/RCSYS%20-%20final%20project.ipynb) we use **DeepCTR-Torch folder**, load the dataset files we create and then we train and evaluate our models. All the results dataframes saved in **results folder**.
