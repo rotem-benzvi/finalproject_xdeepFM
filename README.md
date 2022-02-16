@@ -47,4 +47,15 @@ In our [final project notebook](https://github.com/rotem-benzvi/finalproject_xde
 
 ## Results
 
-All the results dataframes saved in results folder. Including figures of train and validation losses.
+We use [figures&plots notebook](https://github.com/rotem-benzvi/finalproject_xdeepFM/blob/8da77fced13de7f3c107ee00dcf4a08a5e76b2c1/figures&plots.ipynb) to display all the different results (models and datasets) and find the best Hyperparameters.
+In addition, thisnotebook include functions to plot all the train and validation losses history per model and dataset.
+
+All the results dataframes saved in results folder as pickle files, for example all the expirements of DeepFM model on criteo Dataset saved in results/final_results_DeepFM_criteo_original.pkl. Using [figures&plots notebook](https://github.com/rotem-benzvi/finalproject_xdeepFM/blob/8da77fced13de7f3c107ee00dcf4a08a5e76b2c1/figures&plots.ipynb) we can explore the results -
+
+<div align="center">
+
+![](static/img/result.jpg)
+
+</div>
+
+Including figures of train and validation losses.
