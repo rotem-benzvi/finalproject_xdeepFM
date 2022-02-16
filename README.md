@@ -58,4 +58,10 @@ All the results dataframes saved in results folder as pickle files, for example 
 
 </div>
 
-Including figures of train and validation losses.
+The result folder also include figures of train and validation losses, for example -
+
+<div align="center">
+
+![](static/img/loss.jpg)
+
+</div>
